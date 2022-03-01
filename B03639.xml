@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroick poem on Her Highness the Lady Ann's voyage into Scotland: With a little digression upon the times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03639</idno>
+            <idno type="OCLC"> 11818084</idno>
+            <idno type="STC">Wing H1587</idno>
+            <idno type="STC">Interim Tract Supplement Guide 806.k.16[59]</idno>
+            <idno type="STC">ESTC R10421</idno>
+            <idno type="EEBO-CITATION">99882585</idno>
+            <idno type="PROQUEST">ocm99882585</idno>
+            <idno type="VID">181709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181709)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:1[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroick poem on Her Highness the Lady Ann's voyage into Scotland: With a little digression upon the times.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bently,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anne, --  Queen of Great Britain, 1665-1714 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181709:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <head>AN HEROICK POEM ON HER HIGHNESS THE LADY ANN'S <note place="margin">
+                  <add>Daughter to y<hi rend="sup">e</hi> Duke of York.</add>
+               </note> Voyage into SCOTLAND: With a little Digreſſion upon the Times.</head>
+            <lg>
+               <l>INgrateful <hi>England,</hi> curſt to that Degree,</l>
+               <l>Fam'd for Rebellion and Inconſtancy;</l>
+               <l>All thy Poſſeſſions and Enjoyments ſpring</l>
+               <l>From Monarch's Cares, yet thou'lt obey no King;</l>
+               <l>To whoſe vain Humour Nothing is Delight,</l>
+               <l>Nor Rain nor Sun-ſhine er'e can happen right;</l>
+               <l>Falſe and unworthy to obtain alone</l>
+               <l>The greateſt Bleſſing of the mildeſt Throne;</l>
+               <l>Yet, being richer than I can expreſs,</l>
+               <l>Art juſtly puniſht with Unhappineſs;</l>
+               <l>What thou art envy'd for, and all adore,</l>
+               <l>Thou throw'ſt away, and to thy ſelf art poor,</l>
+               <l>And like the Miſer that abounds in Bags,</l>
+               <l>Wallow'ſt in Wealth, yet lov'ſt to go in Rags.</l>
+               <l>
+                  <pb n="2" facs="tcp:181709:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 55 -->
+The ſtubborn Jews their Monarchs ſtill ador'd,</l>
+               <l>They begg'd a King, and then obey'd their Lord;</l>
+               <l>But ſtiff-Neck'd <hi>England,</hi> juſt from Slavery ſav'd,</l>
+               <l>Forgets and longs again to be enſlav'd.</l>
+               <l>Can Rebels ever be with Scepters aw'd,</l>
+               <l>Rebels that once did Sacrifice their God.</l>
+               <l>True Heirs in Malice to the Fiends of Hell,</l>
+               <l>Which firſt they practic'd when from Heav'n they fell,</l>
+               <l>And ever ſince taught Traytors to rebell.</l>
+               <l>And now leſt they ſhould fail to reach him there,</l>
+               <l>They ſtab him in his own Vice-Gerent here;</l>
+               <l>For tho' they do it through a Monarchs Name,</l>
+               <l>The Majeſty of Heaven is ſtill their Aim,</l>
+               <l>Is it thy Nature or thy Planet's ſpite,</l>
+               <l>Still to what's preſent to be oppoſite?</l>
+               <lg>
+                  <l>Wretched be then with vain Miſtruſt and Fear,</l>
+                  <l>Baniſht the ſight of the moſt Godlike Paire,</l>
+                  <l>And the bright Daughter of his Highneſs here;</l>
+               </lg>
+               <l>The Winds and Seas will far more faithful be,</l>
+               <l>And Rocks and Quick-ſands teach Men Loyalty.</l>
+               <l>Old <hi>Albany</hi> they now alone ſhall grace,</l>
+               <l>
+                  <hi>Scotland,</hi> whence ſprung th' Imperial <hi>Stewart's</hi> Race;</l>
+               <l>
+                  <hi>Scotland</hi> that boaſts a mighty Duke and Name</l>
+               <l>Further than <hi>Parthia</hi> great <hi>Arſaces</hi> Fame.</l>
+            </lg>
+            <lg>
+               <l>PRepare you Heavens, diſcloſe your brighteſt Ray,</l>
+               <l>All Day your Marble, Night your Milkie Way;</l>
+               <l>
+                  <hi>Urania</hi> comes, the Godeſs of our Iſle,</l>
+               <l>
+                  <hi>Urania,</hi> that makes every Creature Smile;</l>
+               <l>All they were born for, and can wiſh for here,</l>
+               <l>Is but to bleſs her, and be bleſt by Her.</l>
+               <l>Ten thouſand <hi>Cupids</hi> guard her as ſhe rides,</l>
+               <l>And of her golden Bark ſurround the ſides;</l>
+               <l>
+                  <pb n="3" facs="tcp:181709:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 55 -->
+Whilſt Others fly aloft with Songs, and ſtrow</l>
+               <l>Such Flow'rs as on the Beds of <hi>Eden</hi> grow;</l>
+               <l>For want of Winds, with Wings ſupply ſoft Gales,</l>
+               <l>And with gay Plumes deck all her Virgin Sails:</l>
+               <l>Ye frightful Storms retreat into your Cave,</l>
+               <l>Nor leave the Ocean wrinkl'd with a Wave;</l>
+               <l>There, whilſt ſhe Sails, intomb'd in hollow Earth,</l>
+               <l>Lie fetter'd cloſe, and groan for want of Birth;</l>
+               <l>And Heav'n and Seas ſtrive to be moſt ſerene,</l>
+               <l>The Azure Blew, with the ſmooth glaſſy Green.</l>
+               <l>You Sea-Gods and you Nymphs prepare to try</l>
+               <l>Your skils, and with a Mask delight her Eye.</l>
+               <l>Firſt, let the Sun ſend forth ſuch kindly Heats,</l>
+               <l>As Winter's ſhine, or Summer when it ſets;</l>
+               <l>No Icy, Cloudy, nor no ſoultry Day,</l>
+               <l>But all like Morning, and thoſe Mornings <hi>May:</hi>
+               </l>
+               <l>Then gentle <hi>Zephyr</hi> unlock all thy ſtore,</l>
+               <l>And ſend ſoft Breezes from the Weſtern Shore;</l>
+               <l>Such as <hi>Arabia Foelix</hi> has refin'd</l>
+               <l>With Trees of Spice fanning the precious Wind;</l>
+               <l>But juſt ſo much as ſhe in State may glide;</l>
+               <l>And ſafe in her <hi>Neptunian</hi> Chariot ride:</l>
+               <l>Then thou Green God ſhalt wait on her above,</l>
+               <l>As on <hi>Jove</hi>'s Daughter, and the Queen of Love.</l>
+               <l>Let thy ſhrill Trumpeters, the <hi>Tritons,</hi> blow,</l>
+               <l>And ſummon all the Wat'ry Pow'rs below;</l>
+               <l>The <hi>Nayades,</hi> and <hi>Nereid</hi>'s to appear,</l>
+               <l>Let all the Subjects of the Flood draw near:</l>
+               <l>Fair <hi>Cytheraea</hi> and her Waiters Call,</l>
+               <l>And your Sea Nymphs, to deck this Ocean's Ball;</l>
+               <l>Then let the lovely Mermaids come in Place,</l>
+               <l>Each Mermaid that ſo doats upon her Face;</l>
+               <l>Till they ſhall ſee how far above their own</l>
+               <l>
+                  <hi>Urania's</hi> is, and throw their Glaſſes down.</l>
+               <l>
+                  <pb n="4" facs="tcp:181709:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 56 -->
+The leſſer Fry in Shoals before ſhall run,</l>
+               <l>Like Clouds of Inſects gather'd by the Sun;</l>
+               <l>And nimble Dolphins wantonly ſhall play,</l>
+               <l>And hunt the Plain, like Spanniels in her Way.</l>
+               <l>Next, let the great <hi>Leviathans</hi> reſort,</l>
+               <l>And not forget to make the Princeſs Sport;</l>
+               <l>But at a harmleſs diſtance head the Train,</l>
+               <l>And from their mighty Engins ſpout forth Rain.</l>
+               <lg>
+                  <l>Thus in ſuch awful Manner let it be,</l>
+                  <l>That wond'ring Angels may look down to ſee,</l>
+                  <l>And make the Show more full of Majeſty.</l>
+               </lg>
+               <l>Thou <hi>Nereus,</hi> do this mighty Task with Care;</l>
+               <l>As much as was in <hi>Noah</hi>'s Ark, is here:</l>
+               <l>For ſince that Patriarch, when the World was drown'd,</l>
+               <l>The like was never in one Veſſel found.</l>
+               <l>Her little Yatch and Squadron, as they ride,</l>
+               <l>Swell to a Fleet and Admiral, with Pride,</l>
+               <l>Lift up their Flags, like Piramids, on high,</l>
+               <l>And with their Rain-bow Colours brave the Sky:</l>
+               <l>Th' <hi>Aegyptian</hi> Gallies were not half ſo proud,</l>
+               <l>When <hi>Cleopatra</hi> was o're <hi>Nilus</hi> row'd.</l>
+               <l>Thus gentle <hi>Neptune</hi> guard her o're your Sea,</l>
+               <l>From faithleſs <hi>Albion</hi> to glad <hi>Albany;</hi>
+               </l>
+               <l>Commit her ſafely to the longing Shore,</l>
+               <l>To her firſt Father's, ancient <hi>Fergu's</hi> Tower,</l>
+               <l>There, as in Heav'n, her Wiſhes to obtain,</l>
+               <l>Till ſhe return, and thou art bleſt again.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bently,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
